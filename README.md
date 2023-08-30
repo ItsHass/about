@@ -1,2 +1,5 @@
-# about
-about ItsHass
+# about me...
+I'm a PHP Developer with knowledge of setup from mysql to nginx servers and proxmox type 1 hypervisor.
+
+# working on...
+Currently working on @storjdashboard project to build a nice viewable dashboard for storj.io node operators. 
